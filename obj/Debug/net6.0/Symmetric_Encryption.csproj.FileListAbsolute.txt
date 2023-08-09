@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\bin\Debug\net6.0\Symmetric_Encryption.exe
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\bin\Debug\net6.0\Symmetric_Encryption.deps.json
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\bin\Debug\net6.0\Symmetric_Encryption.runtimeconfig.json
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\bin\Debug\net6.0\Symmetric_Encryption.dll
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\bin\Debug\net6.0\Symmetric_Encryption.pdb
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\obj\Debug\net6.0\Symmetric_Encryption.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\obj\Debug\net6.0\Symmetric_Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\obj\Debug\net6.0\Symmetric_Encryption.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\obj\Debug\net6.0\Symmetric_Encryption.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\obj\Debug\net6.0\Symmetric_Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\obj\Debug\net6.0\Symmetric_Encryption.dll
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\obj\Debug\net6.0\refint\Symmetric_Encryption.dll
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\obj\Debug\net6.0\Symmetric_Encryption.pdb
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\obj\Debug\net6.0\Symmetric_Encryption.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Symmetric_Encryption\Symmetric_Encryption\obj\Debug\net6.0\ref\Symmetric_Encryption.dll
