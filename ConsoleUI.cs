@@ -9,6 +9,7 @@ namespace Symmetric_Encryption
     {
         public static void DisplayMenu()
         {
+            // Display the encryption algorithm menu options.
             Console.WriteLine("Select an encryption algorithm: ");
             Console.WriteLine("1. AES");
             Console.WriteLine("2. DES");
